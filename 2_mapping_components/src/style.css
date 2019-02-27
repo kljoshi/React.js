@@ -1,0 +1,18 @@
+body{
+    background-color: lightblue;
+}
+
+h1 { 
+    color: #9b2727; 
+    font-family: arial,sans-serif; 
+    font-size: 25px; 
+    font-weight: 80; 
+    /* line-height: 72px;  */
+    margin: 0 0 24px; 
+    text-align: center; 
+    text-transform: uppercase; 
+}
+
+.h3-item{
+    text-align: center;
+}
