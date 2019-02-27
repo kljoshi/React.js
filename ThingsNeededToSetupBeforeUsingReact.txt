@@ -1,0 +1,11 @@
+- Need to install Node.js
+- Using "cmd" cd into the folder where you would like to setup react 
+- react can be setup in a particular folder without needing to install it into your device
+- to do this simple type "npx create-react-app <filepath>"
+- you also need to use "npm start" command inside the folder where react was extracted to open terminal 
+- where you can see functionality of your code 
+
+
+--- notes for myself 
+how the information is going through react 
+- index.html -> index.js -> App.js
